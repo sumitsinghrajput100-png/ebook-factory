@@ -1,0 +1,27 @@
+
+
+body {
+  font-family: 'Inter', sans-serif;
+  color: #334155;
+  line-height: 1.6;
+}
+
+h1 {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  color: #0F172A;
+  page-break-before: always;
+  font-size: 24pt;
+  margin-top: 0;
+}
+
+h2 {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  color: #1E293B;
+  font-size: 16pt;
+  margin-top: 1.5em;
+}
+
+p {
+  font-size: 11pt;
+  margin-bottom: 1em;
+}
